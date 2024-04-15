@@ -18,11 +18,11 @@ const SectionOne = () => {
           Chart 🚀
         </button> */}
         <a
-          href="https://pancakeswap.finance/swap?outputCurrency=0x43eA496448e730412eDc29f73DcD75A15dDA257B"
+          href="https://www.pinksale.finance/"
           target="_blank"
         >
           <button className="px-4 py-2 my-2 bg-blue-200 font-bold rounded-full text-black hover:scale-110">
-            Buy $RUFUS Pancakeswap
+            PINKSALE
           </button>
         </a>
         <div className="flex gap-2 justify-center mt-4">
