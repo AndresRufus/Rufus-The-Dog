@@ -43,9 +43,9 @@ const NavBar = ({ infoOpen, setInfoOpen }) => {
               className="w-12 rounded-full h-12 md:w-16 md:h-16"
             />
           </div>
-          <a href="https://pancakeswap.finance/swap" target="_blank">
+          <a href="https://www.pinksale.finance/" target="_blank">
             <button className="bg-blue-500 py-2 px-4 rounded-full font-semibold hover:scale-110">
-              Buy $RUFUS
+              Buy Pre-sale
             </button>
           </a>
         </div>
