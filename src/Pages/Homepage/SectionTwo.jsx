@@ -13,7 +13,7 @@ const SectionTwo = () => {
               className="w-20 h-20 rounded-full animate-bounce block mx-auto z-30"
             />
             <p className="text-center text-blue-200 text-lg mb-4">
-              A vibrant decentralized community
+              Let's catch the bullrun with $Rufus
             </p>
             <h4 className="text-5xl font-semibold mb-6 leading-[50px]">
               <span className="text-blue-200">$RUFUS</span>: A space dog ready
