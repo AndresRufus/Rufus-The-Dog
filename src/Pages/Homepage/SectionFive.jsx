@@ -230,7 +230,7 @@ const SectionFive = () => {
                     d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
                   />
                 </svg>
-                <p>Integration with DeFi platforms</p>
+                <p>100% community voting decisions</p>
               </div>
               <div className="flex gap-4">
                 <svg
@@ -247,7 +247,7 @@ const SectionFive = () => {
                     d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
                   />
                 </svg>
-                <p>Launch of the <span className="text-blue-200">$RUFUS</span> mobile app</p>
+                <p>IRL Movement</p>
               </div>
             </div>
           </div>
