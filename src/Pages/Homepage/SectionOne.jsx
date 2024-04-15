@@ -5,8 +5,7 @@ const SectionOne = () => {
     <section className="bg-black ">
       <div className="text-white p-4 text-center roundbottom pb-10 mb-32 max-w-[600px] mx-auto">
         <h1 className="text-6xl font-bold mb-6 leading-[70px]">
-          <span className="text-blue-200">RUFUS The Dog</span>: The ultimate
-          Spaces dog Finance.
+          <span className="text-blue-200">$RUFUS The Dog</span> The perfect Meme before the Bullrun.
         </h1>
         <p className="mb-6">
           Tired of boring memecoins? Here comes $Rufus, the space dog about to
