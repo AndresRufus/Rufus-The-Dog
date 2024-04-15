@@ -3,7 +3,7 @@ import React from 'react'
 const SectionFour = () => {
   return (
     <section className="bg-black text-white text-center py-12 px-6 pb-32 mb-40">
-      <p className="text-blue-200 tex-lg">Distribution of the total tokens</p>
+      <p className="text-blue-200 tex-lg">Tokens Distribution.</p>
       <h4 className="text-5xl font-semibold mb-2 leading-[60px]">Tokenomics</h4>
       <p className="text-xl text-blue-500 font-bold">
         Total Supply: 50,000,000 $RUFUS
