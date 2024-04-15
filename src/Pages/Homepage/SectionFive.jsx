@@ -4,7 +4,7 @@ const SectionFive = () => {
   return (
     <section className="bg-black text-center text-white p-6 pb-32 mb-32">
       <div className="mx-auto max-w-[600px]">
-        <p className="text-lg text-blue-300">Safe steps, GOAL: The Moon 🚀</p>
+        <p className="text-lg text-blue-300">Always aiming for The Moon 🚀</p>
         <h4 className="text-5xl leading-[50px] font-bold my-4">
           The <span className="text-blue-200">$RUFUS</span> Roadmap
         </h4>
