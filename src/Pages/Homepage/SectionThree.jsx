@@ -4,7 +4,7 @@ const SectionThree = () => {
   return (
     <section className="bg-black px-6 text-white py-12 text-center mb-32">
       <div className="mx-auto max-w-[600px]">
-        <p className="text-lg text-blue-200">Join the revolution now</p>
+        <p className="text-lg text-blue-200">Don't miss the opportunity</p>
         <h4 className="text-5xl font-semibold mb-6 leading-[60px]">
           Buy safely, easily, and quickly in just 3 steps
         </h4>
