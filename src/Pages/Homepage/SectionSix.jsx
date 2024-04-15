@@ -5,9 +5,9 @@ const SectionSix = () => {
   return (
     <section className="bg-blue-900 p-6 text-white text-center">
       <div className="max-w-[600px] mx-auto">
-        <p className="text-blue-200">To the Moon 🚀</p>
+        <p className="text-blue-200">The Bullrun is Near 🚀</p>
         <h4 className="text-5xl leading-[50px] font-bold my-4">
-          Join our community
+          Join the official Rufus channels
         </h4>
         <p className="mb-6">
           Become part of the vibrant <span className="text-blue-200">$RUFUS</span>{" "}
