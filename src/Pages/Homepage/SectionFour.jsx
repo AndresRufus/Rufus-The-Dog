@@ -55,11 +55,11 @@ const SectionFour = () => {
                 strokeLinejoin="round"
               ></path>
             </svg>
-            <p>46.36%</p>
+            <p>46.35%</p>
           </div>
           <h5 className="text-2xl font-bold mb-2">Presale</h5>
           <p>
-            Initial offering to investors before public launch. 46.36% of tokens
+            Initial offering to investors before public launch. 46.35% of tokens
             allocated for early supporters to acquire at preferential rates.
           </p>
           <p className="text-2xl font-bold mt-4">
