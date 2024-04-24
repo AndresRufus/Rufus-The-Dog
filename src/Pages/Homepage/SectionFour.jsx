@@ -55,15 +55,15 @@ const SectionFour = () => {
                 strokeLinejoin="round"
               ></path>
             </svg>
-            <p>50%</p>
+            <p>46.36%</p>
           </div>
           <h5 className="text-2xl font-bold mb-2">Presale</h5>
           <p>
-            Initial offering to investors before public launch. 50% of tokens
+            Initial offering to investors before public launch. 46.36% of tokens
             allocated for early supporters to acquire at preferential rates.
           </p>
           <p className="text-2xl font-bold mt-4">
-            25,000,000 <span className="text-blue-200">$RUFUS</span>
+            23,180,000 <span className="text-blue-200">$RUFUS</span>
           </p>
         </div>
 
@@ -83,15 +83,15 @@ const SectionFour = () => {
                 d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 0 0-3.7-3.7 48.678 48.678 0 0 0-7.324 0 4.006 4.006 0 0 0-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 0 0 3.7 3.7 48.656 48.656 0 0 0 7.324 0 4.006 4.006 0 0 0 3.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3-3 3"
               />
             </svg>
-            <p>10%</p>
+            <p>23.65%</p>
           </div>
           <h5 className="text-2xl font-bold mb-2">Liquidity</h5>
           <p>
-            Ensures trading stability and accessibility. 10% reserved to provide
+            Ensures trading stability and accessibility. 23.65% reserved to provide
             liquidity for seamless trading on exchanges.
           </p>
           <p className="text-2xl font-bold mt-4">
-            5,000,000 <span className="text-blue-200">$RUFUS</span>
+            11,821,800 <span className="text-blue-200">$RUFUS</span>
           </p>
         </div>
 
@@ -111,15 +111,15 @@ const SectionFour = () => {
                 d="M13.5 21v-7.5a.75.75 0 0 1 .75-.75h3a.75.75 0 0 1 .75.75V21m-4.5 0H2.36m11.14 0H18m0 0h3.64m-1.39 0V9.349M3.75 21V9.349m0 0a3.001 3.001 0 0 0 3.75-.615A2.993 2.993 0 0 0 9.75 9.75c.896 0 1.7-.393 2.25-1.016a2.993 2.993 0 0 0 2.25 1.016c.896 0 1.7-.393 2.25-1.015a3.001 3.001 0 0 0 3.75.614m-16.5 0a3.004 3.004 0 0 1-.621-4.72l1.189-1.19A1.5 1.5 0 0 1 5.378 3h13.243a1.5 1.5 0 0 1 1.06.44l1.19 1.189a3 3 0 0 1-.621 4.72M6.75 18h3.75a.75.75 0 0 0 .75-.75V13.5a.75.75 0 0 0-.75-.75H6.75a.75.75 0 0 0-.75.75v3.75c0 .414.336.75.75.75Z"
               />
             </svg>
-            <p>15%</p>
+            <p>10%</p>
           </div>
           <h5 className="text-2xl font-bold mb-2">Marketing</h5>
           <p>
-            Promotional activities to enhance awareness. 15% allocated for
+            Promotional activities to enhance awareness. 10% allocated for
             marketing campaigns to expand the coin's reach.
           </p>
           <p className="text-2xl font-bold mt-4">
-            7,500,000 <span className="text-blue-200">$RUFUS</span>
+            5,000,000 <span className="text-blue-200">$RUFUS</span>
           </p>
         </div>
 
@@ -175,15 +175,15 @@ const SectionFour = () => {
                 strokeLinejoin="round"
               ></path>
             </svg>
-            <p>10%</p>
+            <p>5%</p>
           </div>
           <h5 className="text-2xl font-bold mb-2">Rewards</h5>
           <p>
-            Incentives for engagement and loyalty. 10% set aside for rewarding
+            Incentives for engagement and loyalty. 5% set aside for rewarding
             community members for active participation.
           </p>
           <p className="text-2xl font-bold mt-4">
-            5,000,000 <span className="text-blue-200">$RUFUS</span>
+            2,500,000 <span className="text-blue-200">$RUFUS</span>
           </p>
         </div>
 
