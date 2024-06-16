@@ -18,7 +18,7 @@ const SectionOne = () => {
           Chart 🚀
         </button> */}
         <a
-          href="https://www.pinksale.finance/"
+          href="https://www.pinksale.finance/launchpad/bsc/0x7cBf845206c33e2ce5485fd1cdD6a0c1283b98B4"
           target="_blank"
         >
           <button className="px-4 py-2 my-2 bg-blue-200 font-bold rounded-full text-black hover:scale-110">
